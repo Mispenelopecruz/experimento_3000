@@ -1,0 +1,15 @@
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\bin\Debug\net6.0\experimento_3000.exe
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\bin\Debug\net6.0\experimento_3000.deps.json
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\bin\Debug\net6.0\experimento_3000.runtimeconfig.json
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\bin\Debug\net6.0\experimento_3000.dll
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\bin\Debug\net6.0\experimento_3000.pdb
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\experimento_3000.csproj.AssemblyReference.cache
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\experimento_3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\experimento_3000.AssemblyInfoInputs.cache
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\experimento_3000.AssemblyInfo.cs
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\experimento_3000.csproj.CoreCompileInputs.cache
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\experimento_3000.dll
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\refint\experimento_3000.dll
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\experimento_3000.pdb
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\experimento_3000.genruntimeconfig.cache
+C:\Users\gomez\OneDrive\Documentos\experimento_3000\experimento_3000\experimento_3000\obj\Debug\net6.0\ref\experimento_3000.dll
